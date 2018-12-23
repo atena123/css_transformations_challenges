@@ -1,3 +1,8 @@
 img {
 	margin: 50px;
+	transition: 1s ease-in;
+}
+
+img:hover {
+	transformation: scale(2);
 }
